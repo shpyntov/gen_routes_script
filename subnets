@@ -1,0 +1,158 @@
+# ip route add 142.250.74.0/24 dev wg0
+# ip route add 23.109.87.0/24 dev wg0
+# ip route add 1.1.1.0/24 dev wg0
+# ip route add 1.0.0.0/24 dev wg0
+# ip route add 31.13.0.0/16 dev wg0
+# ip route add 157.240.0.0/16 dev wg0
+# ip route add 108.174.0.0/16 dev wg0
+# ip route add 69.63.0.0/16 dev wg0
+# ip route add 66.220.144.0/20 dev wg0
+# ip route add 179.60.192.0/22 dev wg0
+# ip route add 103.4.96.0/22 dev wg0
+# ip route add 45.64.40.0/22 dev wg0
+# ip route add 204.15.20.0/22 dev wg0
+# ip route add 74.119.76.0/22 dev wg0
+# ip route add 185.60.216.0/22 dev wg0
+# ip route add 185.89.216.0/22 dev wg0
+# ip route add 102.132.96.0/20 dev wg0
+# ip route add 147.75.208.0/20 dev wg0
+# ip route add 69.171.224.0/19 dev wg0
+# ip route add 173.252.64.0/18 dev wg0
+# ip route add 91.225.248.0/24 dev wg0
+# ip route add 185.63.144.0/24 dev wg0
+# ip route add 108.174.0.0/16 dev wg0
+# ip route add 13.104.0.0/14 dev wg0
+# ip route add 179.43.149.0/24 dev wg0
+# ip route add 217.195.153.0/24 dev wg0
+# ip route add 91.211.91.0/24 dev wg0
+# ip route add 104.244.42.0/23 dev wg0
+
+# # hashicorp
+# # stackoverflow
+# # ip route add 151.101.0.0/16 dev wg0
+
+# # twitter
+# ip route add 151.101.84.0/24 dev wg0
+
+# # rutracker
+# ip route add 195.82.146.0/24 dev wg0
+
+# ip route add 91.227.34.0/24 dev wg0
+# ip route add 151.115.45.0/24 dev wg0
+# ip route add 163.172.74.0/24 dev wg0
+# ip route add 88.212.244.0/24 dev wg0
+# ip route add 151.115.46.0/23 dev wg0
+# ip route add 151.115.57.0/24 dev wg0
+# ip route add 88.212.240.0/24 dev wg0
+# ip route add 185.137.235.0/24 dev wg0
+# ip route add 185.71.67.0/24 dev wg0
+# ip route add 212.58.249.0/24 dev wg0
+# ip route add 185.70.40.0/21 dev wg0
+# ip route add 18.195.178.0/24 dev wg0
+# ip route add 54.93.56.0/24 dev wg0
+# ip route add 35.159.24.0/24 dev wg0
+# ip route add 3.127.229.0/24 dev wg0
+# ip route add 51.15.103.0/24 dev wg0
+# ip route add 5.61.58.0/24 dev wg0
+# ip route add 37.1.207.0/24 dev wg0
+# ip route add 81.17.19.0/24 dev wg0
+# ip route add 82.202.255.0/24 dev wg0
+# ip route add 185.124.11.0/24 dev wg0
+# ip route add 74.125.196.0/24 dev wg0
+# ip route add 145.14.151.0/24 dev wg0
+
+# # tilda
+# # ip route add 178.248.236.0/24 dev wg0
+
+# ip route add 62.115.252.0/24 dev wg0
+# ip route add 80.239.137.0/24 dev wg0
+# ip route add 148.251.28.0/24 dev wg0
+# ip route add 152.199.21.0/24 dev wg0
+# ip route add 3.127.12.0/24 dev wg0
+# ip route add 3.122.61.0/24 dev wg0
+# ip route add 81.92.228.0/24 dev wg0
+# ip route add 185.12.144.0/24 dev wg0
+# ip route add 51.75.145.0/24 dev wg0
+# ip route add 95.217.91.0/24 dev wg0
+# ip route add 145.239.2.0/24 dev wg0
+# ip route add 54.38.195.0/24 dev wg0
+# ip route add 95.217.118.0/24 dev wg0
+# ip route add 95.141.32.0/24 dev wg0
+# ip route add 51.77.52.0/24 dev wg0
+# ip route add 5.188.73.0/24 dev wg0
+# ip route add 147.135.138.0/24 dev wg0
+# ip route add 195.137.240.0/24 dev wg0
+# ip route add 23.193.18.0/24 dev wg0
+# # ip route add 185.215.4.0/24 dev wg0
+# ip route add 194.55.30.0/24 dev wg0
+# ip route add 194.55.26.0/24 dev wg0
+# ip route add 212.58.237.0/24 dev wg0
+# ip route add 212.58.233.0/24 dev wg0
+# ip route add 192.229.220.0/24 dev wg0
+# ip route add 68.232.34.0/24 dev wg0
+# ip route add 192.229.233.0/24 dev wg0
+# ip route add 184.51.232.0/24 dev wg0
+# ip route add 184.29.192.0/24 dev wg0
+# ip route add 62.115.252.0/24 dev wg0
+# ip route add 5.61.49.0/24 dev wg0
+# ip route add 144.2.8.0/21 dev wg0
+# ip route add 80.239.137.0/24 dev wg0
+# ip route add 151.139.128.0/24 dev wg0
+# ip route add 216.92.111.0/24 dev wg0
+# ip route add 3.224.128.0/24 dev wg0
+# ip route add 79.98.25.0/24 dev wg0
+# ip route add 91.234.200.0/24 dev wg0
+# ip route add 142.251.36.0/24 dev wg0
+# ip route add 142.250.179.0/24 dev wg0
+# ip route add 172.217.168.202/32 dev wg0
+# ip route add 216.58.214.10/32 dev wg0
+# ip route add 216.58.208.106/32 dev wg0
+# ip route add 142.251.39.106/32 dev wg0
+# ip route add 2.18.12.0/24 dev wg0
+# ip route add 23.32.0.0/11 dev wg0
+# ip route add 104.64.0.0/10 dev wg0
+# ip route add 104.16.0.0/12 dev wg0
+# ip route add 95.100.64.0/20 dev wg0
+# ip route add 96.16.0.0/15 dev wg0
+# ip route add 172.64.0.0/13 dev wg0
+# ip route add 23.0.0.0/12 dev wg0
+# ip route add 184.84.0.0/14 dev wg0
+# ip route add 44.192.0.0/10 dev wg0
+# ip route add 84.53.184.0/21 dev wg0
+# ip route add 184.50.0.0/15 dev wg0
+# ip route add 2.21.192.0/20 dev wg0
+# ip route add 15.236.0.0/14 dev wg0
+# ip route add 23.64.0.0/14 dev wg0
+# ip route add 184.24.0.0/13 dev wg0
+# ip route add 2.19.176.0/20 dev wg0
+# ip route add 92.123.248.0/22 dev wg0
+# ip route add 188.114.96.0/22 dev wg0
+# ip route add 65.8.0.0/14 dev wg0
+# ip route add 52.84.0.0/14 dev wg0
+# ip route add 52.88.0.0/14 dev wg0
+# ip route add 52.92.0.0/14 dev wg0
+# ip route add 108.156.0.0/14 dev wg0
+# ip route add 13.24.0.0/13 dev wg0
+# ip route add 13.32.0.0/12 dev wg0
+# ip route add 13.48.0.0/13 dev wg0
+# ip route add 13.56.0.0/14 dev wg0
+# ip route add 18.64.0.0/14 dev wg0
+# ip route add 52.222.0.0/16 dev wg0
+# ip route add 34.192.0.0/10 dev wg0
+# ip route add 107.20.0.0/14 dev wg0
+# ip route add 143.204.0.0/16 dev wg0
+# ip route add 52.216.0.0/14 dev wg0
+# ip route add 52.208.0.0/13 dev wg0
+# ip route add 52.223.0.0/17 dev wg0
+# ip route add 52.222.0.0/16 dev wg0
+# ip route add 52.192.0.0/12 dev wg0
+# ip route add 52.220.0.0/15 dev wg0
+# ip route add 52.223.128.0/18 dev wg0
+# ip route add 50.16.0.0/14 dev wg0
+# ip route add 54.208.0.0/15 dev wg0
+# ip route add 13.107.42.0/24 dev wg0
+# ip route add 179.43.141.0/24 dev wg0
+
+# # youtube
+# ip route add 173.194.222.0/24 dev wg0
+# ip route add 64.233.164.0/24 dev wg0
